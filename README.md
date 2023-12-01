@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ángel Samuel Muela Bustamante</h1>
 <h3 align="center">
-I currently work at OXYGEN Coworking, where I participate in the development of a web solution for a hotel chain, using HTML, CSS, JavaScript, TypeScript, React, Node.js, Express.js, MongoDB, SQL and PHP with Laravel. My strong point is front-end development, where I apply my knowledge of design, usability and accessibility to create attractive and functional interfaces. In addition, I have worked with other languages ​​and frameworks such as Java, Python and C#, and I have collaborated with multidisciplinary and agile teams. I consider myself a versatile profile, with ease in learning and adaptation, and with the desire to add value to projects and organizations.</h3>
+I currently work at OXYGEN Coworking, where I participate in the development of a web solution for a hotel chain, using HTML, CSS, JavaScript, TypeScript, React, Node.js, Express.js, MongoDB, SQL and PHP with Laravel. My strong point is front-end development, where I apply my knowledge of design, usability and accessibility to create attractive and functional interfaces. In addition, I have worked with other languages ​​and frameworks such as Java, Python and C#, and I have collaborated with multidisciplinary and agile teams.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rihan44" alt="rihan44" /></a> </p>
 
